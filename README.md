@@ -22,3 +22,6 @@ REDIS_SERVER_PWD=pwd // Redis Password 입력
 ```
 npm run devStart
 ```
+
+
+![image](https://github.com/rhkdguskim/redis_crud/assets/111857144/f70053c1-7d84-4e99-a6d9-fafc3c4a33c0)
